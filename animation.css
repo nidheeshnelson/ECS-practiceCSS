@@ -1,0 +1,16 @@
+#box{
+    width:250px;
+    height:250px;
+    background: lightseagreen;
+    font-size: 225px;
+    text-align: center;
+    animation: myAnimation;
+    animation-duration: 10s;
+    animation-play-state: running;
+    animation-iteration-count: infinite;
+    animation-timing-function:cubic-bezier(1, 0, 0, 1);
+}
+@keyframes myAnimation{
+    from{margin-left: 100%;}
+    to{margin-left: 0%;}
+}
