@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+.odd{
+    font-family: "Homenaje", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-decoration:rgb(138, 2, 2) wavy underline;
+}
