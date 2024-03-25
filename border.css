@@ -1,0 +1,35 @@
+h1{
+border-top-style: dotted;
+border-bottom-style: double;
+border-left-style: groove;
+border-left-color: blue;
+}
+p{
+    border-style:dashed;
+    border-width: 5px;
+    border-color: brown;
+    padding: 5px;
+    border-radius: 10px;
+}
+#p2{
+    border-style:dotted;
+}
+
+#p3{
+    border-style:double;
+}
+#p4{
+    border-style:groove;
+}
+#p5{
+    border-style:hidden;
+}
+#p3{
+    border-style:inherit;
+}
+#p3{
+    border-style:initial;
+}
+#p3{
+    border-style:inset;
+}
